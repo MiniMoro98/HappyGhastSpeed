@@ -1,0 +1,17 @@
+name: HappyGhastSpeed
+version: '1.0'
+main: com.minimoro.HappyGhastSpeed
+api-version: '1.21'
+author: Minimoro
+description: Plugin to control Happy Ghast speed when ridden
+
+commands:
+  ghast:
+    description: Manage Happy Ghast speed settings
+    aliases: [ghastspeed, happyghastspeed]
+    permission: happyghastspeed.admin
+
+permissions:
+  happyghastspeed.admin:
+    description: Allows modifying speed settings
+    default: op

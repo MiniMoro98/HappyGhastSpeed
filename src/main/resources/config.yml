@@ -1,0 +1,6 @@
+speedValue:
+  # Default movement speed of the Happy Ghast when not ridden
+  default: 0.05
+
+  # Movement speed of the Happy Ghast when ridden by a player
+  riding: 0.15
