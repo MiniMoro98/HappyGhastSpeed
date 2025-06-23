@@ -1,5 +1,5 @@
 name: HappyGhastSpeed
-version: '1.0'
+version: ${project.version}
 main: com.minimoro.HappyGhastSpeed
 api-version: '1.21'
 author: Minimoro
